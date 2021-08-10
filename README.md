@@ -1,8 +1,3 @@
-## Hola, I'm Manav Shah! 👋
-
-
-<br/>
-
 
 <h1 align="center"> <center><img src="https://github.com/manavshah123/manavshah123/blob/main/animation_500_ks5rcck3.gif"  width="300"></h1>
 
