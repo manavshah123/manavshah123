@@ -36,7 +36,7 @@
    * Shooping - The Android app (Wireframe & Prototype) (https://github.com/manavshah123/Shopping_App_UX) <Br>
 
 ### 🤖 Python Projects <Br>
-   * [Face Mask Detection System] (https://github.com/manavshah123/Face-Mask-Detection-System) <Br>
+   * Face Mask Detection System (https://github.com/manavshah123/Face-Mask-Detection-System) <Br>
    * Space Invaders (https://github.com/manavshah123/Space-Invaders) <Br>
    * snake game (https://github.com/manavshah123/snake-game)<br>
    * Data Science and machine learning Algo (https://github.com/manavshah123/Data-Science-and-machine-learning) <Br>
