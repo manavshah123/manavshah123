@@ -25,6 +25,9 @@
 ### 📱 Android Projects <Br>
    * BSPP & IOT College management app <Br>
    * Quizoo - The quiz app<Br>
+  
+### 🌐 Web Projects <Br>
+   * [Swagblogger](https://swagblogger.com/) - Personal Wordpress Blog <Br>
 
 ### 👨 UI/UX Projects <Br>
    * Boat - Boat website UX design(Mockup Only) (https://github.com/manavshah123/Boat_Website_Mockup_and_Wireframe) <Br>
