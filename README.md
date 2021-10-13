@@ -32,11 +32,11 @@
 ### 👨 UI/UX Projects <Br>
    * Boat - Boat website UX design(Mockup Only) (https://github.com/manavshah123/Boat_Website_Mockup_and_Wireframe) <Br>
    * Quizoo - The quiz app (Wireframe & Prototype) (https://www.youtube.com/watch?v=FxE3TZGgKpU&t=5s) <Br>
-   * Music App (Prototype and Mockup)<br>
-   * Shooping - The Android app (Wireframe & Prototype) <Br>
+   * Music App (Prototype and Mockup) (https://github.com/manavshah123/Music_Player_UX) <br>
+   * Shooping - The Android app (Wireframe & Prototype) (https://github.com/manavshah123/Shopping_App_UX) <Br>
 
 ### 🤖 Python Projects <Br>
-   * Face Mask Detection System (https://github.com/manavshah123/Face-Mask-Detection-System) <Br>
+   * [Face Mask Detection System] (https://github.com/manavshah123/Face-Mask-Detection-System) <Br>
    * Space Invaders (https://github.com/manavshah123/Space-Invaders) <Br>
    * snake game (https://github.com/manavshah123/snake-game)<br>
    * Data Science and machine learning Algo (https://github.com/manavshah123/Data-Science-and-machine-learning) <Br>
