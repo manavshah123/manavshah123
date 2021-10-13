@@ -21,6 +21,8 @@
 
 <Br>
 <h1>My personal Projects! 🎨</h1>
+  
+[Personal Portfolio](http://manav.swagblogger.com/)
     
 ### 📱 Android Projects <Br>
    * BSPP & IOT College management app <Br>
