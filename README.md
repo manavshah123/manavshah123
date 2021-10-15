@@ -51,6 +51,7 @@
   <a href="https://www.linkedin.com/in/manav-shah-881162179/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/ManavUdaykumar"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://www.instagram.com/manavshah_art/"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:manav.march12@gmail.com?subject=Hello%20Manav"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCT6eNHIfZQfJA7iU0-y5QGw?sub_confirmation=1)
