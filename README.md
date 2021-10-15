@@ -83,5 +83,5 @@
   </tr>
     </tbody>
 </table>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=manavshah123&show_icons=true&theme=radical"alt="manavshah123" width="55%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manavshah123&layout=compact"alt="manavshah123" width="37%">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=manavshah123&show_icons=true&theme=radical"alt="manavshah123" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manavshah123&layout=compact"alt="manavshah123" width="50%">
