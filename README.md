@@ -83,4 +83,4 @@
   </tr>
     </tbody>
 </table>
-![Manav's GitHub stats](https://github-readme-stats.vercel.app/api?username=manavshah123&show_icons=true&theme=radical)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=manavshah123&show_icons=true&theme=radical"alt="manavshah123" width="55%">
