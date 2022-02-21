@@ -29,6 +29,10 @@
    * Quizoo - The quiz app<Br>
    * AR Furniture App - The Augmented Reality Furniture App (https://github.com/manavshah123/AR_Furniture_App) <Br>
      Demo of AR Furniture App (https://youtu.be/D032Oio1XDU) <Br>
+
+    
+### 📱 Mobile Application Projects <Br>
+   * Mobile Application Training (https://github.com/manavshah123/Mobile_Application_Training) <Br>
   
 ### 🌐 Web Projects <Br>
    * [Swagblogger](https://swagblogger.com/) - Personal Wordpress Blog <Br>
